@@ -7,8 +7,8 @@ A blacklist and whitelist discord bot made with discord.js v12 & quick.db v7.1.1
 
 Commands | Usage
 ------------ | -------------
-whitelist | whitelist <@user | userID>
-blacklist | blacklist <@user | <userID>
+whitelist | whitelist <@user> <-- Also supports user id
+blacklist | blacklist <@user> <-- Also supports user id
 
 # ✨ Contributors
 - No contributers cuz I lazy to ask for help
